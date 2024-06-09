@@ -1,0 +1,10 @@
+Delete a JSON cell (email):
+1. Calendar invite
+2. Forwarded message
+
+
+Delete end of message:
+1. Email signature
+    - The problem with this is when you have an email chain it there's a gap between the messages.
+      for instance, we have our email, then the response, then our email again. So on and so forth.
+      I'm deciding to make the sacrifice and delete the messages after the first signature.
